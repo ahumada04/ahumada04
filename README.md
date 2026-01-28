@@ -1,8 +1,6 @@
-## Hello, I'm Erick and I'm a junior at UCI with a major in Computer Science and minor in Statistics 🐣
+## Hello, I'm Erick and I'm a senior at UCI with a major in Computer Science and minor in Statistics 🐣
 
-With over three years of professional tutoring experience, I have developed a strong foundation in education. My passion for teaching is matched by my dedication to coding, 
-where I am both formally trained and self-taught. Java is my primary programming language, creating personal project called Test Tutor. Utalizing JavaFX and SQLite, 
-I created a self study software that makes preparing for Calclus exams a more streamlined process. I am also building my skills in C and Python, as I continue to study.
-
-
+I leverage my CS background to solve issues and to educate the means to solve such issues. Currently working through a personal research endevaor in partnership of Ednovate and 
+UCI to analyze the impact of AI integration within education and how to leverage AI to both increase education quality and teaching staff job satisfaction. As well,
+currently undertaking an ML project to classify sEMG signals to translate into real world arm gestures. 
 
