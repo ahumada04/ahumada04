@@ -17,5 +17,5 @@ I leverage my CS background to solve issues and to educate the best methods to s
 
 
 ## (Current) Favorite Dishes to Cook
-- Chuck Steak Stew
+- Lasagna
 - Pan Gon Poll / Panes
