@@ -4,8 +4,8 @@ I leverage my CS background to solve issues and to educate the best methods to s
 
 ## My current projects are:
 - `ACE CLUBLABs`: AI/ML work for internal tools
-- `UCI MUST RA` : Education Research
-- `MNIST++    ` : create and classify your own numbers
+- `UCI MUST RA `: Education Research
+- `MNIST++     ` : create and classify your own numbers
 
 ## Weight Totals/ Goals
 - Current: 425 x 1 deadlift, 355 x 1 Squat, 225 x 1 bench 
